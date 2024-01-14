@@ -1,0 +1,12 @@
+{
+  "name": "bun-msw",
+  "module": "index.ts",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "msw": "^2.0.14"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "type": "module"
+}
